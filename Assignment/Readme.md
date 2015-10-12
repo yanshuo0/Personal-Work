@@ -3,3 +3,6 @@
 ##### All assignments are done in MATLAB of Octave
 
 ##### The assignment folder covers the following chapters:
+
+* Linear Regression with Single / Multiple Variable(s), Gradient Descent;
+* 
