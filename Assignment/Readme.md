@@ -6,3 +6,4 @@
 
 * Linear Regression with Single / Multiple Variable(s), Gradient Descent;
 * (Regularized) Logistic Regression with Single / Multiple Variable(s), Data Visualization;
+* Multi-class Classfication and Neural Networks, Handwriting Classification with Logistic Regression, One-vs-all Classification, Feedforward Propagation and Prediction;
