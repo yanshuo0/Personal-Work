@@ -5,4 +5,4 @@
 ##### The assignment folder covers the following chapters:
 
 * Linear Regression with Single / Multiple Variable(s), Gradient Descent;
-* 
+* (Regularized) Logistic Regression with Single / Multiple Variable(s), Data Visualization;
